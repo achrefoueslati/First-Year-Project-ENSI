@@ -1,0 +1,24 @@
+Qu'est-ce qu'un algorithme?
+Un organigramme
+Un organigramme ou un pseudocode
+Une decision
+Instructions pas a pas utilisees pour résoudre un problème
+4
+Pour repeter une tache, nous utilisons une ____?
+Entree
+Condition
+Boucle
+Sortie
+3
+Lorsqu'un algorithme est ecrit sous la forme d'un langage de programmation, il devient un ___?
+Un organigramme
+Un programme
+Un pseudo-code
+Syntaxe
+2
+Que represente une fleche dans un organigramme?
+La prise de decision
+Flux de données
+Début
+Fin
+2

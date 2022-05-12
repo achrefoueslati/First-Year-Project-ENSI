@@ -1,0 +1,24 @@
+La complexite de l'algorithme Recherche Lineaire est ___?
+O(n)
+O(log n)
+O(n^2)
+O(n * log n)
+1
+Laquelle des structures de donnees suivantes est une structure de donnees lineaire?
+Arbres
+Graphes
+Tableaux
+Aucune de ces reponses
+3
+La complexite de l'algorithme de tri a bulles est _____?
+O(n)
+O(log n)
+O(n^2)
+O(n * log n)
+3
+Lequel des algorithmes de tri suivants presente la plus faible complexite dans le pire des cas?
+Tri par fusion
+Tri a bulles
+Tri rapide
+Tri par selection
+1
