@@ -1,6 +1,4 @@
 import sys
-import random 
-from random import randint
 import pickle
 import time 
 import pygame
